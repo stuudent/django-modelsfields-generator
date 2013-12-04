@@ -1,0 +1,3 @@
+TYPE; NAME OF FIELD; TEXT OF FIELD; NULLABLE; DEFAULT VALUE; 
+bool;   test_field;     Test Field;   False;  True
+str; test_str;       Test char;    True;   
